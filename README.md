@@ -11,5 +11,5 @@ Projects:
   3. Document Scanner- Detects the image, warps it and then cropps it so that possibly best way is the image shown.
   4. HSV picker- Helps to detect the color for setting it's mask
   5. Text detection
-  6. YOLO-Object Detection
+  6. YOLO-Object Detection (download .weights file for the config from official website.)
   
